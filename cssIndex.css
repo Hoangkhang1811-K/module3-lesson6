@@ -1,0 +1,42 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: white;
+    color: #222;
+}
+
+.container {
+    width: 900px;
+    margin: 20px auto;
+}
+
+h1 {
+    font-size: 48px;
+    margin-bottom: 0;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.sub-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+p {
+    font-size: 28px;
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 1.6;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.blue {
+    color: #1a5fd0;
+    font-weight: bold;
+}
